@@ -1,4 +1,4 @@
-from .cli.Cli import main
+from .cli.Cli import cx
 
 if __name__ == "__main__":
-    main()
+    cx()

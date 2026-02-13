@@ -1,0 +1,12 @@
+{
+  "name": "contexter",
+  "provider": {
+    "provider_name": "gemini"
+  },
+  "contexter": {
+    "debug": false,
+    "memorize": false,
+    "enable_cache": false,
+    "vector_db": "chromadb"
+  }
+}
